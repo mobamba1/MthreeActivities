@@ -1,0 +1,1000 @@
+   61  ls
+   62  history
+   63  clear
+   64  sudo yu update
+   65  sudo yum update
+   66  sudo apt update
+   67  git --version
+   68  sudo apt list installed
+   69  clear
+   70  sudo apt list installed
+   71  git cofig
+   72  git coffig
+   73  git config
+   74  git -config
+   75  git config
+   76  git config list
+   77  git config -list
+   78  git config --list
+   79  clear
+   80  sudo apt instal git
+   81  sudo apt install git
+   82  git config --list
+   83  sudo apt list installed
+   84  cd ../..
+   85  sudo git config --list
+   86  git config --global user.name "mobamba1"
+   87  git config --global user.email "kenneth1521412@gmail.com"
+   88  sudo git config --list
+   89  git config --list
+   90  git clone https://github.com/mobamba1/srerepo.git
+   91  sudo git clone https://github.com/mobamba1/srerepo.git
+   92  ls
+   93  rm srerepo/
+   94  rmdir srerepo/
+   95  sudo rmdir srerepo/
+   96  sudo rmdir -r srerepo/
+   97  sudo rmdir r srerepo/
+   98  sudo rm r srerepo/
+   99  sudo rmdr -r srerepo/
+  100  sudo rmdir -r srerepo/
+  101  --help
+  102  rmdir --help
+  103  sudo rmdir -p srerepo/
+  104  sudo rmdir --panrents srerepo/
+  105  sudo rmdir --parents srerepo/
+  106  clear
+  107  sudo rmdir -p srerepo/
+  108  sudo rmdir -rf srerepo/
+  109  sudo rm -rf srerepo/
+  110  ls
+  111  cd
+  112  ls
+  113  pwd
+  114  git clone https://github.com/mobamba1/srerepo.git
+  115  ls
+  116  pwd
+  117  cd /var/log
+  118  cd
+  119  ls
+  120  cd /var/log
+  121  cd ~
+  122  ls
+  123  man ls
+  124  ls -lsr
+  125  ls -lSr
+  126  sudo dmidecode -t system
+  127  uname -a
+  128  cat blue 
+  129  vi blue 
+  130  cat blue 
+  131  head blue 
+  132  tail blue 
+  133  mkdir kenneth
+  134  cd kenneth/
+  135  cd
+  136  mv blue kenneth/
+  137  ls
+  138  cd kenneth/
+  139  cd
+  140  cp -p kenneth/blue file.bkp
+  141  ls
+  142  cd file
+  143  cat file.bkp 
+  144  cd /
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd 
+  149  ls
+  150  pwd
+  151  cd /
+  152  pwd
+  153  ls
+  154  cd home/
+  155  cd 
+  156  ls
+  157  cd kenneth/
+  158  ls
+  159  vim blue 
+  160  cat blue
+  161  vim blue 
+  162  cat blue 
+  163  vim blue 
+  164  cat blue 
+  165  ls
+  166  git clone https://github.com/techmarathon/srerepo
+  167  ls
+  168  cd srerepo/
+  169  ls
+  170  cat 'pss-orderbook-deploy-main (1).zip' 
+  171  ls
+  172  cd srerepo/
+  173  ls
+  174  cd kenneth
+  175  cd 
+  176  ls
+  177  cd kenneth/
+  178  ls
+  179  cd srerepo/
+  180  ls
+  181  sudo apt-get install unzip
+  182  ls
+  183  unzip pss-orderbook-deploy-main\ \(1\).zip -d .
+  184  ls
+  185  cd pss-orderbook-deploy-main/
+  186  ls
+  187  cd src/
+  188  cd linux_activities/
+  189  ls
+  190  cd Activity6
+  191  ls
+  192  vim stock_sample.csv 
+  193  cat stock_sample.csv 
+  194  vim stock_sample.csv 
+  195  cat stock_sample.csv 
+  196  vim stock_sample.csv 
+  197  grep -E "^(TSLA|MSFT|MS)," stock2022_09_28.csv > extracted_stocks.csv
+  198  ls
+  199  cat extracted_stocks.csv 
+  200  clear
+  201  vim extracted_stocks.csv 
+  202  ls
+  203  clear
+  204  vim stock2022_09_28.csv 
+  205  ls
+  206  grep "TSLA" stock2022_09_28.csv 
+  207  grep "TSLA" stock2022_09_28.csv > extracted_stocks.csv 
+  208  cat extracted_stocks.csv 
+  209  grep "MSFT" stock2022_09_28.csv 
+  210  grep "MSFT" stock2022_09_28.csv >>>> extracted_stocks.csv 
+  211  grep "MSFT" stock2022_09_28.csv >> extracted_stocks.csv 
+  212  cat extracted_stocks.csv 
+  213  grep "MS" stock2
+  214  grep "MS" stock2022_09_28.csv 
+  215  clear
+  216  cat extracted_stocks.csv 
+  217  gret "^(TSLA|MSFT|MS)" stock2022_09_28.csv 
+  218  gret p^(TSLA|MSFT|MS)" stock2022_09_28.csv 
+  219  grep "(TSLA|MSFT|MS)" stock2022_09_28.csv 
+  220  ls
+  221  grep "((TSLA|MSFT|MS)" stock2022_09_28.csv 
+  222  grep "^(TSLA|MSFT|MS)," stock2022_09_28.csv 
+  223  grep "MS." stock2022_09_28.csv 
+  224  clear
+  225  vim stock_sample.csv 
+  226  ls
+  227  cat stock_sample.csv 
+  228  vim stock_sample.csv 
+  229  cd
+  230  ls
+  231  cd srerepo/
+  232  ls
+  233  cd
+  234  cd kenneth/
+  235  cd srerepo/
+  236  ls
+  237  sudo rm -r pss-orderbook-deploy-main
+  238  unzip pss-orderbook-deploy-main\ \(1\).zip 
+  239  ls
+  240  clear
+  241  cd pss-orderbook-deploy-main/
+  242  ls
+  243  cd src/
+  244  ls
+  245  cd  linux_activities/
+  246  ls
+  247  cd Activity6
+  248  ls
+  249  grep "^(TSLA|MSFT)," stock_sample.csv 
+  250  grep "stock_sample.csv 
+  251  sad
+  252  asd
+  253  asd
+  254  grep "^(TSLA|MSFT)," stock_sample.csv 
+  255  grep -e "^(TSLA|MSFT)," stock_sample.csv 
+  256  grep -e "TSLA" -e "MSFT" stock_sample.csv 
+  257  ls
+  258  grep -e "TSLA" stock_sample.csv 
+  259  grep -e "TSLA" stock2022_09_28.csv 
+  260  grep "^(TSLA|MSFT)," stock_sample.csv clear
+  261  clear
+  262  grep "^(TSLA|MSFT)," stock2022_09_28.csv 
+  263  ls
+  264  cat stock_sample.csv 
+  265  grep "^(TSLA|MSFT)," stock2022_09_28.csv c
+  266  clear
+  267  grep -E "TSLA|MSFT" stock2022_09_28.csv c
+  268  clear
+  269  grep -E "TSLA|MSFT|MS" stock2022_09_28.csv c
+  270  grep -E "TSLA|MSFT|M" stock2022_09_28.csv c
+  271  cd kenneth/srerepo/
+  272  ls
+  273  cd pss-orderbook-deploy-main/src/linux_activities/Activity6
+  274  ls
+  275  grep -E "TSLA|MSFT" 
+  276  grep -E "TSLA|MSFT" stock2022_09_28.csv 
+  277  cat stock_sample.csv 
+  278  wk -F ',' '$5 ~ /^TSLA$/' filename.csv
+  279  awk -F ',' '$5 ~ /^TSLA$/' filename.csv
+  280  awk -F ',' '$5 ~ /^TSLA$/' stock_sample.csv 
+  281  ls
+  282  awk -F ',' '$5 ~ /^TSLA$/' stock2022_09_28.csv 
+  283  ls
+  284  awk -F\; '/TSLA/' stock2022_09_28.csv 
+  285  ls
+  286  awk -F\; '$5==/TSLA/' stock2022_09_28.csv /
+  287  awk -F\; '$5==/TSLA/' stock2022_09_28.csv 
+  288  awk -F\; '$5==TSLA' stock2022_09_28.csv 
+  289  '
+  290  '
+  291  cd kenneth/srerepo/pss-orderbook-deploy-main/src/linux_activities/Activity6
+  292  ls
+  293  cat stock_sample.csv 
+  294  vim stock_sample.csv 
+  295  awk -F\; '$5==TSLA' stock2022_09_28.csv 
+  296  cd kenneth/srerepo/pss-orderbook-deploy-main/src/linux_activities/Activity6
+  297  ls
+  298  awk -F\; '$5==TSLA' stock2022_09_28.csv > output.csv 
+  299  ls
+  300  cat output.csv 
+  301  cd kenneth/srerepo/pss-orderbook-deploy-main/src/linux_activities/Activity6
+  302  ls
+  303  rm output.csv 
+  304  ls
+  305  clear
+  306  awk -F "\"*,\"*" '{print $3}' stock_sample.csv 
+  307  awk -F "TSLA" '{print $5}' stock_sample.csv 
+  308  awk -F "TSLA" '{print $5}' stock2022_09_28.csv 
+  309  cd kenneth/srerepo/pss-orderbook-deploy-main/src/linux_activities/Activity6
+  310  ls
+  311  awk -F "TSLA" '{print $5}' stock2022_09_28.csv > output.csv
+  312  ;s
+  313  ls
+  314  vim output.csv 
+  315  awk -F "TSLA" '{print $4}' stock2022_09_28.csv > output.csv
+  316  vim output.csv 
+  317  awk -F "TSLA" '{print $5}' stock_sample.csv 
+  318  awk -F "TSLA" '{print $2}' stock_sample.csv 
+  319  awk -F "TSLA" '{print $3}' stock_sample.csv 
+  320  clear
+  321  awk -F "TSLA" '{print $1}' stock_sample.csv 
+  322  awk -F, '$5 == "TSLA"' stock_sample.csv 
+  323  ls
+  324  awk -F, '$5 == "TSLA"' stock2022_09_28.csv 
+  325  awk -F, '$1 == "TSLA"' stock_sample.csv 
+  326  awk -F, '$5 == "TSLA"' input_file.csv > tsla_in_column5.csv
+  327  awk -F, '$5 == "TSLA"' stock_sample.csv > tsla_in_column5.csv
+  328  vm tsla_in_column5.csv 
+  329  vim tsla_in_column5.csv 
+  330  rm tsla_in_column5.csv 
+  331  cat stock_sample.csv 
+  332  awk -F, '$5 == "SPY"' stock_sample.csv 
+  333  awk -F, '$5 == "CMCSA"' stock_sample.csv 
+  334  awk -F, '$5 == "CMCSA|SPY"' stock_sample.csv 
+  335  awk -F, '$5 == "" || $5 == "SPY"' stock_sample.csv 
+  336  ls
+  337  rm output.csv 
+  338  ls
+  339  clear
+  340  awk -F, '$5 == "TSLA" || $5 == "MSFT" || $5 == "MS"' stock2022_09_28.csv > output.csv
+  341  vim output.csv 
+  342  awk -F, '$5 == "TSLA" || $5 == "MSFT" || $5 == "MS"' stock2022_09_28.csv 
+  343  awk -F, '$5 == "TSLA"' stock2022_09_28.csv 
+  344  awk -F, '$4 == "TSLA"' stock2022_09_28.csv 
+  345  awk -F, '$2 == "TSLA"' stock2022_09_28.csv 
+  346  awk -F, '$1 == "TSLA"' stock2022_09_28.csv 
+  347  awk -F, '$3 == "TSLA"' stock2022_09_28.csv 
+  348  awk -F, '$4 == "TSLA"' stock2022_09_28.csv 
+  349  awk -F, '$5 == "TSLA"' stock2022_09_28.csv 
+  350  awk -F, '$6 == "TSLA"' stock2022_09_28.csv 
+  351  awk -F, '$6 == "TSLA" || $5 == "MSFT" || $5 == "MS"' stock2022_09_28.csv 
+  352  awk -F, '$6 == "TSLA" || $5 == "MSFT" || $5 == "MS"' stock2022_09_28.csv > output.csv 
+  353  cat output.csv 
+  354  cat stock_sample.csv 
+  355  echo stock_sample.csv >> output.csv 
+  356  cat stock_sample.csv 
+  357  cat output.csv 
+  358  vim output.csv 
+  359  cat output.csv >> stock_sample.csv 
+  360  cat stock_sample.csv 
+  361  ls
+  362  vim stock_sample.csv 
+  363  ls
+  364  cd srerepo/
+  365  ls
+  366  cd
+  367  ls
+  368  cd kenneth/srerepo/
+  369  ls
+  370  cd pss-orderbook-deploy-main/src/
+  371  ls
+  372  cd linux_activities/
+  373  ls
+  374  cd Activity6
+  375  ls
+  376  cat stock_sample.csv 
+  377  vim stock_sample.csv 
+  378  ls
+  379  cp output.csv 
+  380  cp output.csv .
+  381  ls
+  382  ls .
+  383  ls
+  384  cp /
+  385  ls /
+  386  ls/home
+  387  ls /home
+  388  ls /home/ubuntu
+  389  clear
+  390  wp
+  391  pwd
+  392  cp output.csv .
+  393  ls
+  394  cp output.csv backup
+  395  ls
+  396  cat backup 
+  397  cd /home/ubuntu/kenneth/
+  398  ls
+  399  cd ..
+  400  ls
+  401  wget https://github.com/TheAcademy/pss-orderbook-deploy/blob/main/src/linux_activities/fixGenerator.sh
+  402  cd kenneth/srerepo/
+  403  ls
+  404  ls pss-orderbook-deploy-main/src/
+  405  ls
+  406  cd pss-orderbook-deploy-main/src/linux_activities/Activity7
+  407  ls
+  408  cd Solution/
+  409  ls
+  410  while true; do echo "screen 1..."; sleep 5; done
+  411  screen
+  412  screen -list
+  413  exit
+  414  screen
+  415  screen-list
+  416  screen -list
+  417  exit
+  418  mkdir logs
+  419  ls
+  420  cd logs/
+  421  ls
+  422  cd /
+  423  ls
+  424  cd
+  425  ls
+  426  mv fixGenerator.sh logs/
+  427  ls
+  428  cd logs/
+  429  ls
+  430  cd
+  431  cd kenneth/srerepo/pss-orderbook-deploy-main/
+  432  ls
+  433  cd src/linux_activities/Activity6
+  434  ls
+  435  clear
+  436  ls
+  437  rm output.csv 
+  438  ack -F, '$5 == "TESLA"' stock2022_09_28.csv 
+  439  awk -F, '$5 == "TESLA"' stock2022_09_28.csv 
+  440  sudo apt install ngnx
+  441  systemctl status
+  442  systemctl status nginx
+  443  clear
+  444  systemctl start nginx
+  445  systemctl status nginx
+  446  sudo apt install ngnx
+  447  clear
+  448  systemctl status nginx
+  449  systemctl start nginx
+  450  sudo systemctl start nginx
+  451  sudo --apt install ngnx
+  452  sudo ---apt install ngnx
+  453  sudo apt install ngnx
+  454  strace
+  455  top
+  456  strace ls
+  457  ls
+  458  strace -ls
+  459  strace ls
+  460  clea
+  461  clear
+  462  touch new 
+  463  ;s
+  464  ls
+  465  rm new 
+  466  strace ls
+  467  clear
+  468  systemctl status
+  469  systemctl status nginx
+  470  systemctl start nginx
+  471  sudo systemctl start nginx
+  472  sudo systemctl enable nginx
+  473  sudo service nginx stop
+  474  ps
+  475  top
+  476  sudo killall -9 nginx
+  477  sudo netstat -tulpn | grep ':80'
+  478  strace -p 23
+  479  sudostrace -p 23
+  480  sudo strace -p 23
+  481  strace ls
+  482  strace -c ls
+  483  ping google
+  484  ping google.com
+  485  traceroute -4
+  486  traceroute 13.40.216.73
+  487  sudo apt install traceroute
+  488  traceroute 13.40.216.73
+  489  apt install netstats
+  490  apt install net-tools
+  491  sudo apt install net-tools
+  492  netstats -tulp
+  493  netstat -tulp
+  494  ps
+  495  isof -p 1663
+  496  lsof -p 1663
+  497  history
+  498  cd
+  499  systemctl status nginx
+  500  sudo systemctl start nginx
+  501  apt install nginx
+  502  sudo apt install nginx
+  503  apt install acc
+  504  sudo apt install acc
+  505  sudo status nginx
+  506  systemctl status nginx
+  507  systemctl stop nginx
+  508  sudo systemctl stop nginx
+  509  apt install acct
+  510  sudo apt install acct
+  511  du
+  512  ac
+  513  vmstats
+  514  vmstat
+  515  iostat
+  516  mkdir memory_report
+  517  cd memory_report/
+  518  ls
+  519  pwd
+  520  du ~ -a | sort -k1,1nr > homefiles_sorted.txt
+  521  ls
+  522  du ~ a
+  523  ls
+  524  cat homefiles_sorted.txt 
+  525  sudo du / -a | sort -k1,1nr > allfiles_sorted.txt
+  526  ls
+  527  vat allfiles_sorted.txt 
+  528  cat allfiles_sorted.txt 
+  529  du .
+  530  du -h .
+  531  ls -la
+  532  ls -lah
+  533  df -h > filesystem.txt
+  534  ls
+  535  cat filesystem.txt 
+  536  tar -cvf memory.tx *txt
+  537  ls
+  538  rm memory.tx 
+  539  tar -cvf memory.tar *txt
+  540  ls
+  541  tar -tvf memory.tar 
+  542  tar -tvhf memory.tar 
+  543  gzip memory.tar 
+  544  ls
+  545  du . -ha
+  546  ls
+  547  rm *txt
+  548  ;s
+  549  ls
+  550  gunzip memory.tar.gz
+  551  ls
+  552  tar -xvf memory.tar
+  553  ls
+  554  sleep 60
+  555  sleep 5 &
+  556  jobs
+  557  sleep 5
+  558  obs
+  559  jobs
+  560  bg
+  561  bg 2
+  562  bg 1 3
+  563  kill job%1
+  564  kill %1
+  565  kill %2 %3
+  566  kill %1 %3
+  567  kill %1 
+  568  jobs
+  569  kill job %4
+  570  fg
+  571  fg 1
+  572  sleep 5 &
+  573  fg
+  574  screen
+  575  cd logs/
+  576  ./fixGenerator.sh &
+  577  q
+  578  sudo ./fixGenerator.sh &
+  579  q
+  580  chmod +x fixGenerator.sh 
+  581  ./fixGenerator.sh &
+  582  ;s
+  583  ls
+  584  vat fixlog20240805110026.log 
+  585  cat fixlog20240805110026.log 
+  586  vim fixlog20240805110026.log 
+  587  ls
+  588  cat fixGenerator.sh 
+  589  clear
+  590  vim fixlog20240805110026.log 
+  591  cd
+  592  ;s
+  593  pwd
+  594  cd ~
+  595  pwd
+  596  date
+  597  while true; do echo "screen 1..."; sleep 5; done
+  598  while true; do echo "screen 1..."; sleep 2; done
+  599  screen
+  600  while true; do echo "screen 1..."; sleep 5; done
+  601  screen -list
+  602  exit
+  603  jobs
+  604  screen -r 193073
+  605  screen -r 4338
+  606  screen -r 221271
+  607  screen -list
+  608  screen -r 4338.pts-2.ip-172-31-44-217 
+  609  exit
+  610  jobs
+  611  screen -list
+  612  ls
+  613  cd logs/
+  614  ls
+  615  touch avengers
+  616  vi avengers 
+  617  ls
+  618  cat avengers 
+  619  clear
+  620  wc -w avengers 
+  621  history
+  622  wc -w avengers 
+  623  echo "word count 98" >> avengers 
+  624  cat avengers 
+  625  vi
+  626  vi avengers 
+  627  ls /dev
+  628  ls /dev/hs
+  629  ls /dev/hd
+  630  ls -f /dev
+  631  df -h /dev
+  632  clear
+  633  vi avengers 
+  634  wc -l avengers 
+  635  cat avengers 
+  636  vi avengers 
+  637  cp avengers .johndelacruz.txt
+  638  ls
+  639  cp avengers . johndelacruz.txt
+  640  ls -a
+  641  rm .johndelacruz.txt 
+  642  cp avengers johndelacruz.txt
+  643  ls
+  644  cd logs/
+  645  ls
+  646  cd 
+  647  ls
+  648  wd
+  649  pwd
+  650  cd logs/
+  651  cp fixGenerator.sh /home/ubuntu/
+  652  cd
+  653  ls
+  654  ./fixGenerator.sh &
+  655  ls
+  656  ip link show
+  657  ip address show dev eth0
+  658  ip address show dev eth1
+  659  ip route show
+  660  ip link
+  661  nslookup google.com
+  662  ping -c 3 google.com
+  663  ping -q google.com
+  664  dnf search stress
+  665  sudo dnf install stress
+  666  find stress
+  667  apt search stress
+  668  sudo apt install stress 
+  669  free --mega | awk 'NR==2 {print $4}' > free_mega_before_stress
+  670  stress --vm 1 --vm-bytes 512M --vm-keep -t 300s &
+  671  ls
+  672  cat free_mega_before_stress 
+  673  free -mega
+  674  free --mega
+  675  free --mega | awk 'NR==2 {print $4}' > free_mega_during_stress
+  676  cat free_mega_during_stress 
+  677  ps -eo pid,%mem,%cpu,cmd --sort=-%mem | head -n 6 
+  678  bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)"
+  679  git pull https://github.com/mobamba1/MthreeActivities.git
+  680  git init
+  681  git config
+  682  git initialze
+  683  git init
+  684  git pull https://github.com/mobamba1/MthreeActivities.git
+  685  ls
+  686  rm README.md 
+  687  mkdir ActivitiesMthree
+  688  cd ActivitiesMthree/
+  689  git pull https://github.com/mobamba1/MthreeActivities.git
+  690  ls
+  691  mkdir Networking Activity
+  692  cd Networking/
+  693  cd 
+  694  ls
+  695  mv free_mega_ ActivitiesMthree/Networking/
+  696  mv free_mega_before_stress ActivitiesMthree/Networking/
+  697  mv free_mega_during_stress ActivitiesMthree/Networking/
+  698  cd ActivitiesMthree/Networking/
+  699  ls
+  700  cd ..
+  701  git add .
+  702  git status
+  703  bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)" > Difference.txt
+  704  bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)" || >  Difference.txt
+  705  cd Networking/
+  706  bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)" > Difference.txt
+  707  cat Difference.txt 
+  708  bc <<< "$(cat free_mega_before_stress) - $(cat free_mega_during_stress)"
+  709  git add .
+  710  git status
+  711  git commit -m "Networking Activities"
+  712  git push orgin 
+  713  git push orgin master
+  714  git --global
+  715  git config --global
+  716  git push origin master
+  717  git remote -v
+  718  git fetch origin
+  719  git remote add origin https://github.com/mobamba1/MthreeActivities.git
+  720  git remote set-url origin https://github.com/mobamba1/MthreeActivities.git
+  721  git remote -v
+  722  git fetch 
+  723  git push origin master
+  724  git --global user.name "Mobamba1"
+  725  git config --global user.name "Mobamba1"
+  726  git config --global user.email "kenneth1521412@gmail.com"
+  727  git push origin master
+  728  git config
+  729  git config --global
+  730  git config --list 
+  731  git push 
+  732  git push origin 
+  733  git push origin master
+  734  git remote set-url origin https://mobamba1:Asnoska$1357@github.com/mobamba1/MthreeActivities.git
+  735  git push origin master
+  736  git remote set-url origin https://mobamba1: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@github.com/mobamba1/MthreeActivities.git
+  737  git push origin master
+  738  git merge
+  739  ls
+  740  cd ActivitiesMthree/
+  741  ls
+  742  rm Difference.txt 
+  743  ls
+  744  ls Activity/
+  745  rm Activity/
+  746  rm -r Activity/
+  747  ls
+  748  mkdir Scheduling/Automation
+  749  mkdir Scheduling-Automation
+  750  ls
+  751  cd Scheduling-Automation/
+  752  ls
+  753  sudo apt update
+  754  sudo apt install cronie
+  755  systemctl status crond
+  756  sudo systemctl status crond
+  757  sudo apt install cronie
+  758  sudo systemctl start crond
+  759  sudo systemctl start cron
+  760  sudo apt-get install cron
+  761  sudo systemctl start cron
+  762  sudo systemctl status cron
+  763  sudo systemctl enable cron
+  764  sudo systemctl status cron
+  765  ls /home/ubuntu
+  766  0 6 * * 1-5 /home/ubuntu/fixGenerator.sh 
+  767  crontab -e
+  768  sudo systemctl stop cron
+  769  sudo systemctl status cron
+  770  crontab -l
+  771  crontab -l > scripts.txt
+  772  ls
+  773  git add .
+  774  git status
+  775  git commit -m "Scheduling and Automation"
+  776  git push origin main
+  777  git push origin master
+  778  git merge
+  779  ls
+  780  cd 
+  781  ls
+  782  clear
+  783  cd logs/
+  784  ls
+  785  rm fixGenerator.sh 
+  786  ls
+  787  sed 's/WILEYEDGE/EDGE/g' fixlog20240805110026.log >fixlog2.log
+  788  ls
+  789  cat fixlog2.log 
+  790  clear
+  791  grep 'EDGE' fixlog2.log 
+  792  grep '35=8' ~/logs/fixlog2.log > ~/logs/fills.log
+  793  cat fills.log 
+  794  clear
+  795  grep '39=4' fixlog2.log > cancels.log
+  796  cat cancels.log 
+  797  clear
+  798  grep '150=1' fills.log 
+  799  grep '150=0' fills.log 
+  800  grep '150=1' ~/logs/fills.log > ~/logs/partialFills.log  # Assuming '150=1' indicates a partial fill.
+  801  ls
+  802  awk -F '[; ]' '{
+  803      for (i=1; i<=NF; i++) {
+  804          if ($i ~ /^55=/) symbol=substr($i,4);
+  805          if ($i ~ /^11=/) orderID=substr($i,4);
+  806          if ($i ~ /^54=/) side=substr($i,4);
+  807          if ($i ~ /^31=/) fillPrice=substr($i,4);
+  808          if ($i ~ /^32=/) fillQty=substr($i,4);
+  809          if ($i ~ /^17=/) execID=substr($i,4);
+  810      }
+  811      if (symbol && orderID && side && fillPrice && fillQty && execID) {
+  812          print symbol "," orderID "," side "," fillPrice "," fillQty "," execID
+  813      }
+  814  }' ~/logs/partialFills.log > ~/logs/parsedPartialFills.log
+  815  ls
+  816  cat parsedPartialFills.log 
+  817  sed -i 's/55=//g; s/11=//g; s/54=//g; s/31=//g; s/32=//g; s/17=//g' ~/logs/parsedPartialFills.log
+  818  ls
+  819  cat parsedPartialFills.log 
+  820  {     echo "Symbol,OrderID,Side,Price,Qty,ExecID";     cat ~/logs/parsedPartialFills.log; } > ~/.module10.csv
+  821  ls
+  822  cp ~/logs/cancels.log ~/logs/cancels2.log
+  823  sed -i '0,/55=/s/55=\([^;]*\)/55=A\1/' ~/logs/cancels2.log
+  824  ls
+  825  diff ~/logs/cancels.log ~/logs/cancels2.log
+  826  history > ~/$(whoami).$(date +%y%m%d).module10
+  827  ls
+  828  cd 
+  829  ls
+  830  mv ubuntu.240808.module10 /logs
+  831  sudo mv ubuntu.240808.module10 /logs
+  832  ls
+  833  ls -a
+  834  mv .module10.csv /logs
+  835  sudo mv .module10.csv /logs
+  836  ls
+  837  ls -a
+  838  cd logs/
+  839  ls
+  840  clear
+  841  ls
+  842  ls -a
+  843  {     echo "Symbol,OrderID,Side,Price,Qty,ExecID";     cat ~/logs/parsedPartialFills.log; } > .module10.csv
+  844  ls
+  845  ls -a
+  846  cat .module10.csv 
+  847  history > $(whoami).$(date +%y%m%d).module10
+  848  ls
+  849  cp ubuntu.240808.module10 john.dela.cruz.module10
+  850  git merge main
+  851  git checkout main
+  852  git merge main
+  853  git add .
+  854  git status
+  855  git commit -m "Fix Log Analysis"
+  856  git push origin main
+  857  git push origin master
+  858  git status
+  859  git push origin master
+  860  git init
+  861  cd 
+  862  ls
+  863  cd logs/
+  864  ls
+  865  cd ..
+  866  git reset .
+  867  git status
+  868  cd logs/
+  869  git reset .
+  870  git status
+  871  git reset
+  872  git status
+  873  git reset .module10.csv
+  874  git reset ~/logs/
+  875  git status
+  876  cd 
+  877  ls
+  878  mv logs/ ActivitiesMthree/
+  879  ls
+  880  cd ActivitiesMthree/
+  881  ls
+  882  git add .
+  883  git checkout
+  884  ls
+  885  git add .
+  886  git status
+  887  git add logs/
+  888  git checkout main
+  889  git add logs/
+  890  git init
+  891  git add logs/
+  892  git add .
+  893  git add -f .
+  894  cd logs/
+  895  ls
+  896  git add /logs 
+  897  cd ..
+  898  ls
+  899  git add logs/
+  900  cp logs/ Fix.Log.Analysis
+  901  cp -r logs/ Fix.Log.Analysis
+  902  sudo mv logs/ ~
+  903  ls
+  904  rm README.md 
+  905  cd 
+  906  ls
+  907  cd ActivitiesMthree/
+  908  git add .
+  909  git status
+  910  git reset
+  911  ls
+  912  git add .
+  913  ls
+  914  cd ..
+  915  ls
+  916  ls ActivitiesMthree/
+  917  ls
+  918  ls ActivitiesMthree/
+  919  clear
+  920  ls
+  921  rm -r ActivitiesMthree/
+  922  ls
+  923  cd ActivitiesMthree/
+  924  ls
+  925  cd
+  926  sudo rm -r ActivitiesMthree/
+  927  ls
+  928  git pull https://github.com/mobamba1/MthreeActivities.git
+  929  git status
+  930  git reset 
+  931  git status
+  932  git reset READ.md
+  933  git reset README.md
+  934  git reset 
+  935  git reset README.md
+  936  git reset HEAD
+  937  mkdir NewActivities
+  938  cd NewActivities/
+  939  git init
+  940  git pull https://github.com/mobamba1/MthreeActivities.git
+  941  ls
+  942  cd ~
+  943  ls
+  944  cp logs/ NewActivities/
+  945  cp -r logs/ NewActivities/
+  946  cd NewActivities/
+  947  ls
+  948  git add .
+  949  ls logs/
+  950  cd ..
+  951  ls
+  952  rm -r NewActivities/
+  953  mkdir MthreeActivities
+  954  cd MthreeActivities/
+  955  ls
+  956  git init
+  957  git pull https://github.com/mobamba1/MthreeActivities.git
+  958  ls
+  959  ls logs/
+  960  iptables -L
+  961  sudo iptables -L
+  962  sudo iptables -P FORWARD DROP
+  963  iptables -L
+  964  sudo iptables -L
+  965  sudo iptables -P FORWARD ACCEPT
+  966  Sudo firewall -cmd –zone=public –add-service=http
+  967  sudo firewall -cmd –zone=public –add-service=http
+  968  sudo firewall-cmd --zone=public --add-service=http
+  969  sudo firewall -cmd --zone=public --add-service=http
+  970  sudo firewall-cmd --zone=public --add-service=http
+  971  apt install forewalld
+  972  sudo apt install forewalld
+  973  sudo firewall-cmd --zone=public --add-service=http
+  974  apt install forewalld
+  975  sudo apt install forewalld
+  976  sudo apt get && apt install forewalld
+  977  sudo apt-get && apt install forewalld
+  978  sudo apt update && apt install forewalld
+  979  sudo firewall-cmd --zone=public --add-service=http
+  980  apt update && apt install rsyslog
+  981  sudo apt update && apt install rsyslog
+  982  systemctl rsyslog
+  983  systemctl status rsyslog
+  984  history
+  985  systemctl JOE.MAMA
+  986  history
+  987  systemctl START JOE.MAMA 
+  988  clear
+  989  history
+  990  systemctl STATUS JOE.MAMA 
+  991  systemctl ENABLE JOE.MAMA 
+  992  clear
+  993  history
+  994  clear
+  995  history
+  996  clear
+  997  history
+  998  cat                          ╱|、
+  999  history
+ 1000  cat                            ╱|、
+ 1001  cat                          (˚ˎ 。7  
+ 1002  cat                           |、˜〵          
+ 1003  cat                          じしˍ,)ノ
+ 1004  history
+ 1005  each $SHELL
+ 1006  echo $SHELL
+ 1007  ls
+ 1008  cd BashScripts/
+ 1009  bash file.sh 
+ 1010  ls
+ 1011  cd MthreeActivities/
+ 1012  ls
+ 1013  cp logs/ Advanced-Commands
+ 1014  cp -r logs/ Advanced-Commands
+ 1015  ls
+ 1016  cd Advanced-Commands/
+ 1017  ls
+ 1018  cat fills.log 
+ 1019  clear
+ 1020  cat fixlog2
+ 1021  ls
+ 1022  cat fixlog2.log 
+ 1023  cat cancels.log 
+ 1024  clear
+ 1025  cat partialFills.log 
+ 1026  ls
+ 1027  vi cancels2.log 
+ 1028  ls
+ 1029  rm fixlog2.log 
+ 1030  ls
+ 1031  cat fixlog*.log | sed 's/MTHREE/M3/g' > fixlog2.log
+ 1032  ls
+ 1033  rm fills.log 
+ 1034  grep 35=8 fixlog2.log | grep -v 32=0 > fills.log
+ 1035  ls
+ 1036  rm cancels.log 
+ 1037  grep 39=4 fixlog2.log > cancels.log
+ 1038  ls
+ 1039  rm partialFills.log 
+ 1040  ls
+ 1041  grep 39=1 fills.log > partiallFills.log
+ 1042  ls
+ 1043  rm parsedPartialFills.log 
+ 1044  awk '{print $7, $9, $13, $10, $15, $16}' partiallFills.log > parsedPartialFills.log
+ 1045  ls
+ 1046  cat parsedPartialFills.log 
+ 1047  cat cancels2.log 
+ 1048  vim parsedPartialFills.log 
+ 1049  ls
+ 1050  ls -a
+ 1051  cat .module10.csv 
+ 1052  cp cancels.log cancels2.log
+ 1053  ls
+ 1054  vi cancels2.log 
+ 1055  ls
+ 1056  vi parsedPartialFills.log 
+ 1057  vi partiallFills.log 
+ 1058  diff cancels.log cancels2.log 
+ 1059  diff cancels.log cancels2.log
+ 1060  history > ~/$(date +%y%m%d).module10
