@@ -1,0 +1,15 @@
+---
+- name: Stop and Remove MySQL Docker container on local EC2 instance
+  hosts: localhost
+  become: yes
+
+  tasks:
+    - name: Stop MySQL container if running
+      docker_container:
+        name: mysql_server
+        state: stopped
+
+    - name: Remove MySQL container
+      docker_container:
+        name: mysql_server
+        state: absent

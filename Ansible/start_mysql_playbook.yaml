@@ -1,0 +1,31 @@
+---
+- name: Start MySQL Docker container on local EC2 instance
+  hosts: localhost
+  become: yes
+
+  tasks:
+    - name: Install Docker if not already installed
+      apt:
+        name: docker-ce
+        state: present
+
+    - name: Start Docker service
+      service:
+        name: docker
+        state: started
+        enabled: yes
+
+    - name: Pull MySQL Docker image
+      docker_image:
+        name: mysql:8.0.31
+        source: pull
+
+    - name: Start MySQL container
+      docker_container:
+        name: mysql_server
+        image: mysql:8.0.31
+        ports:
+          - "3306:3306"
+        env:
+          MYSQL_ROOT_PASSWORD: your_root_password
+        restart_policy: always
